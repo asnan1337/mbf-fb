@@ -1,3 +1,3 @@
 # mbf-fb
 Install instructions
--sh setup.sh
+$ sh setup.sh
